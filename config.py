@@ -1,0 +1,2 @@
+TOKEN = '1267369243:AAEWslRvtpK4XXntr95OTjSFUz8eTySTFeE'
+APP_NAME = 'likeabots'
