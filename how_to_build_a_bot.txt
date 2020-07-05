@@ -11,3 +11,6 @@ git commit -am "first commit on Heroku"
 git push heroku master
 https://uptimerobot.com -- for watching after bot (he like to sleep)
 http://userbots.herokuapp.com -- monitoring your bot
+про код самого бота: в файле config.py есть переменная TOKEN -- это токен твоего бота, его нужно забрать у @BotFather
+бот выводит приветственное сообщение на сайт http://userbots.herokuapp.com, это нужно, чтобы через uptimerobot.com мониторить его и включать, когда он засыпает (бесплатный сервис, что сказать)
+в bot_handlers все управление самим ботом, за более точной информацией иди на сайт документации телеги
